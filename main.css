@@ -19,7 +19,7 @@ font-family: 'Roboto', sans-serif;
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: #94BE1E;
     color: #ecf0f1
 }
 
@@ -49,7 +49,7 @@ section .container {
 }
 
 .brands-list img {
-    height: 24px;
+    height: 100px;
     margin-right: 8px;
 }
 
@@ -70,12 +70,12 @@ section h2 {
 }
 
 section {
-    color:#182c61;
+    color:#94BE1E;
 }
 
 section p {
     margin-bottom: 8px;
-    color:#182c61;
+    color:#94BE1E;
 }
 
 .store-front {
@@ -124,21 +124,21 @@ section h3 {
 }
 
 form button {
-    background-color:#182c61;
+    background-color:#94BE1E;
     color: #ecf0f1;
     border:none;
     cursor: pointer;
 }
 form button:hover{
-    background-color: #314e9e;
+    background-color:#94BE1E;
 }
 
 input:focus, textarea:focus{
-    outline-color: #182c61;
+    outline-color: #94BE1E;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #94BE1E;
     color: #ecf0f1;
     padding: 16px 0 ;
 }
